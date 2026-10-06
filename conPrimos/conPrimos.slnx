@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="conPrimos/conPrimos.vcxproj" Id="cb3bf143-ecf9-4499-8a1a-c81ca0261d64" />
+</Solution>
