@@ -71,10 +71,17 @@ El repositorio mantiene una organización modular. Cada desafío se encuentra de
 ```
 
 ---
+## 😕 Notas aclaratorias
+
+# 1. Para evitar confusiones, nombra cada reto por su numeración en la lista de retos.
+# 2. No olviden generar el repositorio con su respectivo gitignore
+# 3. Recuerden en el archivo readme identificar su trabajo
+
+---
 
 ## 🏆 Lista de Retos (Primeros 10 Desafíos)
 
-A continuación, se presentan los primeros 10 retos sugeridos, organizados de forma progresiva según su dificultad y los conceptos que refuerzan:
+A continuación, se presentan los siguientes retos sugeridos, donde los primeros 10 están organizados de forma progresiva según su dificultad y los conceptos que refuerzan:
 
 | # | Reto | Descripción | Conceptos Clave |
 |---|---|---|---|
