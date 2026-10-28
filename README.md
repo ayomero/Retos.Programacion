@@ -88,6 +88,7 @@ A continuación, se presentan los primeros 10 retos sugeridos, organizados de fo
 | **08** | Contador de Vocales | Solicitar una cadena de texto (palabra) y contar cuántas vocales contiene. | Cadenas de caracteres (`strings`), Bucles, `switch-case` |
 | **09** | Intercambio con Punteros | Crear una función que reciba dos variables por referencia usando punteros e intercambie sus valores. | Punteros, Direcciones de memoria (`&`), Desreferenciación (`*`) |
 | **10** | Registro de Estudiante | Definir una estructura que guarde el nombre, edad y promedio de un alumno, y mostrar la información en pantalla. | Estructuras (`struct`), Tipos de datos personalizados |
+| **11** | Búsqueda en texto | Capturar una frase en una cadena de caracteres, despues capturar un solo caracter y buscarlo en la frase y mostrar en pantalla si fué hayado y en que posición. | Estructuras (`struct`), Tipos de datos personalizados |
 
 ---
 
