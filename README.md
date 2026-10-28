@@ -71,7 +71,7 @@ El repositorio mantiene una organización modular. Cada desafío se encuentra de
 ```
 
 ---
-## 😕 Notas aclaratorias
+# 😕 Notas aclaratorias
 
 # 1. Para evitar confusiones, nombra cada reto por su numeración en la lista de retos.
 # 2. No olviden generar el repositorio con su respectivo gitignore
