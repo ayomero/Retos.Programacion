@@ -99,6 +99,7 @@ A continuación, se presentan los siguientes retos sugeridos, donde los primeros
 | **12** | Uso de apuntadores | Hacer una aplicación donde se muestre en el código y en los resultados, diferentes formas de manejar los apuntadores en C tanto en variables simples como en arreglos. | Arreglos y apuntadores |
 | **13** | Uso de estructuras | Hacer una aplicación donde se muestre en el código y en los resultados, la forma de utilizar estructuras en C como variable simple. | Estructuras |
 | **14** | Uso de arreglos de estructuras | Hacer una aplicación donde se muestre en el código y en los resultados, la forma de utilizar arreglos de estructuras con apuntadores en C. | Arreglos, estructuras y apuntadores |
+| **15** | Lectura del archivo con la imagen del ahorcado | Hacer una aplicación donde se muestre en el código y en los resultados, la forma de leer un archivo que contenga las diferentes figuras del juego del ahorcado y guardar en un arreglo de estructuras para que posteriormente se despleguen en forma secuencial que permita al usuario ver la secuencia del juego. | Arreglos, estructuras, lectura de líneas de texto de un archivo, arreglos dinámicos y apuntadores |
 
 ---
 
