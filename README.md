@@ -98,6 +98,7 @@ A continuación, se presentan los siguientes retos sugeridos, donde los primeros
 | **11** | Búsqueda en texto | Capturar una frase en una cadena de caracteres, despues capturar un solo caracter y buscarlo en la frase y mostrar en pantalla si fué hayado y en que posición. | Arreglo de caracteres, captura con todo y espacios |
 | **12** | Uso de apuntadores | Hacer una aplicación donde se muestre en el código y en los resultados, diferentes formas de manejar los apuntadores en C tanto en variables simples como en arreglos. | Arreglos y apuntadores |
 | **13** | Uso de estructuras | Hacer una aplicación donde se muestre en el código y en los resultados, la forma de utilizar estructuras en C como variable simple. | Estructuras |
+| **14** | Uso de arreglos de estructuras | Hacer una aplicación donde se muestre en el código y en los resultados, la forma de utilizar arreglos de estructuras con apuntadores en C. | Arreglos, estructuras y apuntadores |
 
 ---
 
