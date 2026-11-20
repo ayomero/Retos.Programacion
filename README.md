@@ -71,10 +71,17 @@ El repositorio mantiene una organización modular. Cada desafío se encuentra de
 ```
 
 ---
+# 😕 Notas aclaratorias
+
+# 1. Para evitar confusiones, nombra cada reto por su numeración en la lista de retos.
+# 2. No olviden generar el repositorio con su respectivo gitignore
+# 3. Recuerden en el archivo readme identificar su trabajo
+
+---
 
 ## 🏆 Lista de Retos (Primeros 10 Desafíos)
 
-A continuación, se presentan los primeros 10 retos sugeridos, organizados de forma progresiva según su dificultad y los conceptos que refuerzan:
+A continuación, se presentan los siguientes retos sugeridos, donde los primeros 10 están organizados de forma progresiva según su dificultad y los conceptos que refuerzan:
 
 | # | Reto | Descripción | Conceptos Clave |
 |---|---|---|---|
@@ -88,7 +95,14 @@ A continuación, se presentan los primeros 10 retos sugeridos, organizados de fo
 | **08** | Contador de Vocales | Solicitar una cadena de texto (palabra) y contar cuántas vocales contiene. | Cadenas de caracteres (`strings`), Bucles, `switch-case` |
 | **09** | Intercambio con Punteros | Crear una función que reciba dos variables por referencia usando punteros e intercambie sus valores. | Punteros, Direcciones de memoria (`&`), Desreferenciación (`*`) |
 | **10** | Registro de Estudiante | Definir una estructura que guarde el nombre, edad y promedio de un alumno, y mostrar la información en pantalla. | Estructuras (`struct`), Tipos de datos personalizados |
+| **11** | Búsqueda en texto | Capturar una frase en una cadena de caracteres, despues capturar un solo caracter y buscarlo en la frase y mostrar en pantalla si fué hayado y en que posición. | Arreglo de caracteres, captura con todo y espacios |
+| **12** | Uso de apuntadores | Hacer una aplicación donde se muestre en el código y en los resultados, diferentes formas de manejar los apuntadores en C tanto en variables simples como en arreglos. | Arreglos y apuntadores |
+| **13** | Uso de estructuras | Hacer una aplicación donde se muestre en el código y en los resultados, la forma de utilizar estructuras en C como variable simple. | Estructuras |
+| **14** | Uso de arreglos de estructuras | Hacer una aplicación donde se muestre en el código y en los resultados, la forma de utilizar arreglos de estructuras con apuntadores en C. | Arreglos, estructuras y apuntadores |
+| **15** | Lectura del archivo con la imagen del ahorcado | Hacer una aplicación donde se muestre en el código y en los resultados, la forma de leer un archivo que contenga las diferentes figuras del juego del ahorcado y guardar en un arreglo de estructuras para que posteriormente se desplieguen en forma secuencial que permita al usuario ver la secuencia del juego. | Arreglos, estructuras, lectura de líneas de texto de un archivo, arreglos dinámicos y apuntadores |
+| **16** | Sistema de archivos | Crear un directorio (carpeta) en el repositorio Retos.Programacion que se denomine parcial3 para comenzar a guardar los trabajos del tercer parcial. | Sistema de archivos |
+| **17** | Sistema de archivos | Copiar .gitignore al directorio parcial3 para evitar subir archivos de mas al repositorio. | Sistema de archivos |
 
 ---
-
+ 
 ¡Mucho éxito en tu camino aprendiendo C! La constancia es la clave para dominar la programación.
