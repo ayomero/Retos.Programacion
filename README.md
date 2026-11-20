@@ -101,6 +101,7 @@ A continuación, se presentan los siguientes retos sugeridos, donde los primeros
 | **14** | Uso de arreglos de estructuras | Hacer una aplicación donde se muestre en el código y en los resultados, la forma de utilizar arreglos de estructuras con apuntadores en C. | Arreglos, estructuras y apuntadores |
 | **15** | Lectura del archivo con la imagen del ahorcado | Hacer una aplicación donde se muestre en el código y en los resultados, la forma de leer un archivo que contenga las diferentes figuras del juego del ahorcado y guardar en un arreglo de estructuras para que posteriormente se desplieguen en forma secuencial que permita al usuario ver la secuencia del juego. | Arreglos, estructuras, lectura de líneas de texto de un archivo, arreglos dinámicos y apuntadores |
 | **16** | Sistema de archivos | Crear un directorio (carpeta) en el repositorio Retos.Programacion que se denomine parcial3 para comenzar a guardar los trabajos del tercer parcial. | Sistema de archivos |
+| **17** | Sistema de archivos | Copiar .gitignore al directorio parcial3 para evitar subir archivos de mas al repositorio. | Sistema de archivos |
 
 ---
  
