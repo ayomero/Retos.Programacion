@@ -33,7 +33,7 @@ Sigue estos pasos para clonar el repositorio, trabajar localmente y subir tus so
 2. **Clonar el repositorio:**
    Copia la URL de este repositorio y clónalo en tu computadora:
    ```bash
-   git clone https://github.comtu-usuario/tu-repositorio.git
+   git clone https://github.com/tu-usuario/tu-repositorio.git
    cd tu-repositorio
    ```
 
